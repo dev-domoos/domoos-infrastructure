@@ -1,0 +1,22 @@
+*********************************************************************************
+*
+* REQUIREMENTS FOR IT INFRASTRUCTURE IN DOMOOS ENVIRONMENT
+*
+*********************************************************************************
+
+Switch
+	- Gigabit Port
+	- PoE Support
+	- VLAN Support
+	- SSH Support
+	
+Access Point
+	- 802.11ac Support
+	- PoE Switch
+	- VLAN Support
+	- SSH Support
+	- MultiSSID Support
+	
+Cables
+	- Ethernet CAT 6 ( max 100mt length )
+	
